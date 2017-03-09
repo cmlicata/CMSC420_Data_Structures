@@ -4,6 +4,8 @@
 
 ##### This class was about data structures, hence the naming, but it's a very valuable course. You can see my logic in my code and see where I was going.
 
+##### Everything is in JAVA <- (* Best Language =) *)
+
 # LICENSE
 
 ```
